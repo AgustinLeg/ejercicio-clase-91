@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  gap: 5px;
+}
+
+.title {
+  color: #e25247;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #525252;
+}
